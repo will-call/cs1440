@@ -1,0 +1,2 @@
+ToolSet: w64 5.0@C:\MinGW\mingw64
+CMake: 3.7.1@C:\CMake\bin\cmake.exe

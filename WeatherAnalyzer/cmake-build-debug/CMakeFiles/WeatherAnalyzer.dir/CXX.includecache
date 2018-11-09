@@ -1,0 +1,100 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Analyzer.cpp
+string
+-
+iostream
+-
+Analyzer.h
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Analyzer.h
+
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Analyzer.h
+Region.h
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Region.h
+
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Day.cpp
+iostream
+-
+Day.h
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Day.h
+
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Day.h
+string
+-
+Stat.h
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Stat.h
+
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Region.cpp
+string
+-
+iostream
+-
+sstream
+-
+Region.h
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Region.h
+Utils.h
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Utils.h
+
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Region.h
+string
+-
+fstream
+-
+Station.h
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Station.h
+
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Stat.cpp
+string
+-
+Stat.h
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Stat.h
+
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Stat.h
+string
+-
+
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Station.cpp
+string
+-
+iostream
+-
+Station.h
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Station.h
+Utils.h
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Utils.h
+
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Station.h
+string
+-
+Day.h
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Day.h
+
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Utils.cpp
+string
+-
+sstream
+-
+Utils.h
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Utils.h
+
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Utils.h
+string
+-
+
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/main.cpp
+iostream
+-
+fstream
+-
+Region.h
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Region.h
+Analyzer.h
+C:/Users/Andrew Call/Documents/ComputerScience/CS1440/WeatherAnalyzer/Analyzer.h
+

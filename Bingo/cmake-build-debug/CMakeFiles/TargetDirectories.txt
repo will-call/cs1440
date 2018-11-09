@@ -1,0 +1,4 @@
+C:/GitDown/cs1440/Bingo/cmake-build-debug/CMakeFiles/Test.dir
+C:/GitDown/cs1440/Bingo/cmake-build-debug/CMakeFiles/Bingo.dir
+C:/GitDown/cs1440/Bingo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GitDown/cs1440/Bingo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

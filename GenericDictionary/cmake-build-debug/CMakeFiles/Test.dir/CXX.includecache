@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/GitDown/cs1440/GenericDictionary/Dictionary.h
+vector
+-
+stdexcept
+-
+KeyValue.h
+C:/GitDown/cs1440/GenericDictionary/KeyValue.h
+
+C:/GitDown/cs1440/GenericDictionary/KeyValue.h
+
+C:/GitDown/cs1440/GenericDictionary/Testing/DictionaryTester.cpp
+iostream
+-
+DictionaryTester.h
+C:/GitDown/cs1440/GenericDictionary/Testing/DictionaryTester.h
+../Dictionary.h
+C:/GitDown/cs1440/GenericDictionary/Dictionary.h
+
+C:/GitDown/cs1440/GenericDictionary/Testing/DictionaryTester.h
+
+C:/GitDown/cs1440/GenericDictionary/Testing/KeyValueTester.cpp
+iostream
+-
+../KeyValue.h
+C:/GitDown/cs1440/GenericDictionary/KeyValue.h
+KeyValueTester.h
+C:/GitDown/cs1440/GenericDictionary/Testing/KeyValueTester.h
+
+C:/GitDown/cs1440/GenericDictionary/Testing/KeyValueTester.h
+
+C:/GitDown/cs1440/GenericDictionary/Testing/testMain.cpp
+DictionaryTester.h
+C:/GitDown/cs1440/GenericDictionary/Testing/DictionaryTester.h
+KeyValueTester.h
+C:/GitDown/cs1440/GenericDictionary/Testing/KeyValueTester.h
+

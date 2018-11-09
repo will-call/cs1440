@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/GitDown/cs1440/GenericDictionary/Dictionary.h
+vector
+-
+stdexcept
+-
+KeyValue.h
+C:/GitDown/cs1440/GenericDictionary/KeyValue.h
+
+C:/GitDown/cs1440/GenericDictionary/KeyValue.h
+
+C:/GitDown/cs1440/GenericDictionary/main.cpp
+iostream
+-
+Dictionary.h
+C:/GitDown/cs1440/GenericDictionary/Dictionary.h
+
